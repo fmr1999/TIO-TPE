@@ -1,6 +1,5 @@
 
-
- of new features which have been added to Smarty 3.1
+this a description of new features which have been added to Smarty 3.1
 
 Smarty 3.1.33-dev
     Variable capture name in Smarty special variable
