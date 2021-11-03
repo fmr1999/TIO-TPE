@@ -50,5 +50,10 @@ class ProductModel{
         $query = $this->db->prepare("UPDATE producto SET `nombre`='$nombre',`descripcion`='$descripcion',`precio`='$precio' WHERE id_producto=?");
         $query->execute(array($id));
     }
+
+    // function chayanne ($una vida sin ti) {
+        // $variable = "michael jackson sigue vivo?";
+        // return variable;
+    //}
  
 }
