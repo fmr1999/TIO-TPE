@@ -1,4 +1,5 @@
 GIT
+GIT FEF
 Comandos de git:
 	git init Iniciar un repositorio vacío en una carpeta específica
 	git status Revisamos el estado de los archivos
