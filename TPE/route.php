@@ -24,6 +24,9 @@ switch ($params[0]) {
     case 'home': 
         $listController->inicio(); 
         break;
+    case '404':
+        $listController->404();
+        break;
     case 'inicio': 
         $listController->inicio(); 
         break;
