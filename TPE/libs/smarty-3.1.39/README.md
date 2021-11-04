@@ -76,3 +76,8 @@ Or you could use:
 Which is a wrapper to install all 3 packages.
 
 Composer can also be used for Smarty2 versions 2.6.24 to 2.6.30.
+
+Yo tengo un sapo que se llama Pepe
+Que salta y salta por todo el jardín
+No tiene cola y es de color verde
+No me hace caso, siempre salta así
