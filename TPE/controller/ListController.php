@@ -40,6 +40,11 @@ class ListController{
        $this->model->insert($_POST['nombre'], $_POST['descripcion'], $_POST['precio'],$_POST['genero']);
        $this->list();
     }
+
+    function gitStatus(){
+        $this->model->lol();
+        $this->view->asdasd();
+    }
     
     function update(){
         $this->helper->checkLoggedIn();
