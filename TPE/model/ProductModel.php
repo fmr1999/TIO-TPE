@@ -41,10 +41,12 @@ class ProductModel{
         $query->execute(array($nombre,$descripcion,$precio, $id_genero));
     }
    
-    function deletedb($id){
-            $query = $this->db->prepare("DELETE FROM `producto` WHERE `producto`.`id_producto` = ?");
-            $query->execute(array($id));
-    }
+    // function arregloBugxd($xd){
+    //         $query = $this->db->xdxdxdxdxdxdxdxdxd;
+    //         $query->execute(array($xd));
+               //hago este cambio en la funcion en la rama bug-001 en mi repositorio local, despues, hago el merge en secundaria y guardo los
+               //cambios con add y commit, y luego el push
+    // }
         
     function updatedb($id,$nombre,$descripcion,$precio){
         $query = $this->db->prepare("UPDATE producto SET `nombre`='$nombre',`descripcion`='$descripcion',`precio`='$precio' WHERE id_producto=?");
