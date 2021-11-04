@@ -81,3 +81,8 @@ Yo tengo un sapo que se llama Pepe
 Que salta y salta por todo el jardín
 No tiene cola y es de color verde
 No me hace caso, siempre salta así
+
+Le digo "Pepe, vení" y él salta, salta
+"Pepe, tomá" y él salta, salta
+"Pepe, pará" y él salta, salta
+Te vas a marear, te vas a marear
