@@ -72,6 +72,9 @@ switch ($params[0]) {
     case 'CreateGenre':
         $listController->CreateGenre();
         break;
+    // case 'Pitbull:'
+    //      $misterWorldWide->a mi me gusta la pepsi();
+    //      break;
     case 'deleteGenre': 
         $listController->deleteGenre($params[1]); 
         break;
