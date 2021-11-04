@@ -28,9 +28,11 @@ h1,h2,h4{
     font-size: 48px;
 }
 
-.inicio{
+.index{
     text-align: center;
     padding: 15% 5% 0 5%;
+    margin: 10px;
+    border:right, solid;
 }
 .botones-inicio{
     padding-top: 2%;
