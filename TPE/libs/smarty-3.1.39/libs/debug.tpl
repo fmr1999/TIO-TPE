@@ -21,6 +21,7 @@
                 color: black;
                 font-weight: bold;
                 font-size: 1.2em;
+                margin-right:6px;
             }
 
             h2 {
