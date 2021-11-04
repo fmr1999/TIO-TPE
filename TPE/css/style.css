@@ -11,7 +11,7 @@
     flex-direction: column;*/
 } 
 .mayusc{
-    text-transform: capitalize; 
+    text-transform:lowercase; 
 
 }
 input, textarea {
