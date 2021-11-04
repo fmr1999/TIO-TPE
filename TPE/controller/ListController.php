@@ -13,7 +13,7 @@ class ListController{
     private $helper;
 
     function __construct(){
-        $this->genreModel = new GenreModel();
+        $this->genreModel = new GeneroModel();
         $this->model = new ProductModel();
         $this->view = new ListView();
         $this->helper = new AuthHelper();

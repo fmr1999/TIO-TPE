@@ -1,10 +1,10 @@
 .finalizada {
-    color: gray;
+    color:green;
     text-decoration: line-through;
 }
 
 .form-alta {
-    max-width: 600px;
+    max-width: 700px;
     text-align: center;
 
     /* display: flex;

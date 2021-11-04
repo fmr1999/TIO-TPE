@@ -17,5 +17,12 @@ class UserModel{
         $query->execute([$email]);
         return $query->fetch(PDO::FETCH_OBJ);
     }
-    
+
+    //function getMoney() {
+        // return "labura amigo no seas vago";
+    //}    
+
+    //function dontStopMeNow () {
+        //"tonightt.... gonna have myself a real good time";
+    //}
 }
