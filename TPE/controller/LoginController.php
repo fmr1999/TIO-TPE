@@ -43,7 +43,7 @@ class LoginController{
         $this->view->showLogout("Te deslogueaste");
     }
     
-    function registro(){
+    function register(){
         $this->view->mostrarRegistro();
     }
 
