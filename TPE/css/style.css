@@ -12,6 +12,7 @@
 }
 .mayusc {
   text-transform: capitalize;
+  text-shadow: lightpink;
 }
 input,
 textarea {
