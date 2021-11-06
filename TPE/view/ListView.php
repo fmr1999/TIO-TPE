@@ -76,5 +76,3 @@ class ListView {
     }
     
 }
-El término Argentina proviene del latín argentum, que significa plata. 
-Encontramos
