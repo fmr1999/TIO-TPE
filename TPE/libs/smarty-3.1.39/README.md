@@ -76,6 +76,7 @@ Or you could use:
 Which is a wrapper to install all 3 packages.
 
 Composer can also be used for Smarty2 versions 2.6.24 to 2.6.30.
+<<<<<<< HEAD
 
 Yo tengo un sapo que se llama Pepe
 Que salta y salta por todo el jardín
@@ -86,3 +87,5 @@ Le digo "Pepe, vení" y él salta, salta
 "Pepe, tomá" y él salta, salta
 "Pepe, pará" y él salta, salta
 Te vas a marear, te vas a marear
+=======
+>>>>>>> parent of f0dd1b7 (agregue lineas de texto sobre README.md)
