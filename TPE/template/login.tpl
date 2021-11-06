@@ -8,7 +8,7 @@
                 <input placeholder="password" type="password" name="password" id="password">
                 <input type="submit" class="btn btn-primary" value="Login">
             </form>
-            <a class="btn btn-dark" href="inicio">Inicio de sesion</a>
+            <a class="btn btn-dark" href="inicio">Inicio</a>
         </div>
     </div>
 </div>
